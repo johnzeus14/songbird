@@ -29,3 +29,4 @@ music distrubution platform (Team skyforce)
 
 ** then run "python manage.py runserver"
 
+** look for the templtes folder,there you would get the html file
